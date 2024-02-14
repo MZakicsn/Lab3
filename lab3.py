@@ -11,4 +11,10 @@ if __name__ == "__main__":
     write_file_with_name(file_path, your_name)
 
     print(f"File '{file_path}' this file has been created.")
+
+# Text from Professor LAb
+def helloWorld():
+	print ('helloWorld')
+helloWorld()
+
 print('Ops445_lab2b by "MZikria"')
